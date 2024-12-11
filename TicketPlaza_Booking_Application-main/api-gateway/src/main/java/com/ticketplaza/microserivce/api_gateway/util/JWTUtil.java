@@ -67,7 +67,7 @@ public class JWTUtil {
 	}
 	public Date currentDate() {
 		Date date=new Date();
-		System.out.println(date);
+//		System.out.println(date);
 		return date;
 	}
 }
