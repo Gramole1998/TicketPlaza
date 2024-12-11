@@ -1,0 +1,5 @@
+{"properties": [{
+  "name": "jwt.expireTime",
+  "type": "java.lang.Integer",
+  "description": "A description for 'jwt.expireTime'"
+}]}
